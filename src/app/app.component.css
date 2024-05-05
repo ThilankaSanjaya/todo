@@ -1,0 +1,16 @@
+.form-control {
+    border: 1px solid black !important;
+}
+
+.rounded-btn {
+    border-radius: 20px;
+}
+
+#myButton {
+    background-color: rgba(255, 174, 0, 0.986); /* Default button color */
+    color: white; /* Default text color */
+  }
+  
+  #myButton:active {
+    background-color: rgba(255, 230, 0, 0.849); /* Button color when clicked */
+  }
